@@ -64,7 +64,7 @@ Desarrollar un sistema digital que permita gestionar de forma eficiente libros, 
 
 ## Diagrama de Clases del Dominio (v1)
 
-![Diagrama](../cesde_ntp_proyecto_integrador/stats/diagrama.png)
+![Diagrama1](../cesde_ntp_proyecto_integrador/stats/diagrama.png)
 
 
 
