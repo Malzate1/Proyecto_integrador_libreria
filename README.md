@@ -64,6 +64,6 @@ Desarrollar un sistema digital que permita gestionar de forma eficiente libros, 
 
 ## Diagrama de Clases del Dominio (v1)
 
-![Diagrama de Dominio v1](docs/diagrama-dominio-v1.png)  
+Diagrama de Dominio ( ../cesde_ntp_proyecto_integrador/stats/diagrama.png)  
 *Diagrama inicial del modelo de dominio – versión 1. Se actualizará en futuras entregas.*
 
